@@ -12,7 +12,7 @@ package clase3;
  * Progragra: clase3
  *Responsabilidad: clase principal 
  *****************************************************************************/
-public class 
+public class Clase3
 {
    
 
